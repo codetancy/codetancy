@@ -5,7 +5,7 @@
 
 - 📘 I go to **Florida International University**
 
-- 🔭 I’m currently working on **[jTLEX](https://seniorproject.cis.fiu.edu/seniorprojects/jtlex-a-java-library-for-timeline-extraction/)** and **[sharpTLEX](https://github.com/codetancy/SharpTLEX)**
+- 🔭 I’m currently working on **[Dotree](https://github.com/codetancy/Dotree)**.
 
 - 📫 You can reach me to **fbell019@fiu.edu**
 
